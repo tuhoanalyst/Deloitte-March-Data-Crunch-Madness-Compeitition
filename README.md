@@ -1,0 +1,1 @@
+This project is the submission of our group for the Deloitte 12th Annual March Data Crunch Madness Competition (MDCM) sponsored by Deloitte and Fordham University, with the goal to apply various data science techniques to predict the NCAA March Madness Final Four of 2024 season. 
